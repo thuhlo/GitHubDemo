@@ -1,4 +1,6 @@
+<p>
 Welcome to GIT
 GIT is awesome
 
 Excercise7
+</p>
