@@ -4,3 +4,4 @@ GIT is awesome
 
 Excercise7
 </p>
+String actionToTake = "6";
